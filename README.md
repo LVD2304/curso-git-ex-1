@@ -4,3 +4,4 @@ criando alteração branch
 Escrevendo novo paragráfo para branch dev.
 Editando arquivo readme 
 Editando arquivo Readme
+Edição do corpo de README
